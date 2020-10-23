@@ -1,0 +1,29 @@
+html {
+background-color: rgb(197, 221, 233);
+border-block-start-style: double;
+border-block-start-width: 4px;
+border-block-end-style: double;
+border-block-end-width: 4px;
+}
+h1 { 
+  color: rgb(54, 138, 248);
+   font-style: oblique;
+   border-bottom: dotted;
+   border-bottom-width: 2px;
+}
+a:link {
+color: rgb(53, 41, 104);
+}
+a:visited {
+color: rgb(109, 158, 221);
+font-weight: bolder;
+}
+a:hover {
+  color: rgb(250, 249, 186);
+}
+a.Current {
+color: rgb(179, 179, 179);
+}
+a:active {
+  color: rgb(174, 247, 225);
+}
